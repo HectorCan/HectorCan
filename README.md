@@ -27,7 +27,7 @@ I have 3+ years of experience in Web Development using technologies such as Lara
 
 ## ✨ Previous Experiences
 
-- I have refactorized code, optimized SQL Queries and connected a Chamilo with a HR Project. 
+- I have refactorized code, optimized SQL Queries and connected a Chamilo instance with an HR Project. 
 - I contributed on a module for delivering packages using DHL API.
 
 ## 📖 I’m interested in 
